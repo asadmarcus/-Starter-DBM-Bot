@@ -1,4 +1,3 @@
-<DOCKTYPE! html>
 
 <h1>Discord Bot Maker Starter Template</h1>
 <p>A very simple starter kit for discord bot maker. Just clone the repository, navigate to it and open the project file with discord bot maker. Alternativly go to open project and navigate to where you cloned this repository</p>
