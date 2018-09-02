@@ -10,3 +10,6 @@
 
 <h4>Credits</h4>
 <p>Project made by <a href="https://develops.xenohub.xyz">Xeno Develops</a>;  Specificly by developer _iTrqPss#8258. The Xeno Develops discord server may be found <a href="https://discord.gg/x7GptKk">here</a>; Software made by Robert Borghese</p>
+
+<h5>Uses</h5>
+<p>This can be used for many things involving the DBM Software. This template was built to be edited and I hope this helps. An example of this would be just to have a quick startup when making a bot or another would be using this to learn how DBM works. Beta and beta mods are needed for this. To activate beta just go to Discord Bot Maker in your steam libary and right click>properties>betas>and change to beta. The latest beta mods can be found <a href="https://github.com/Discord-Bot-Maker-Mods/DBM-Mods">here</a> along with a installation tutorial.</p>
