@@ -14,4 +14,4 @@
 <h5>Uses</h5>
 <p>This can be used for many things involving the DBM Software. This template was built to be edited and I hope this helps. An example of this would be just to have a quick startup when making a bot or another would be using this to learn how DBM works. Beta and beta mods are needed for this. To activate beta just go to Discord Bot Maker in your steam libary and right click>properties>betas>and change to beta. The latest beta mods can be found <a href="https://github.com/Discord-Bot-Maker-Mods/DBM-Mods">here</a> along with a installation tutorial.</p>
 
-<h1> NODE MODULES MUST BE GRABED BY YOURSELF, THESE MAY BE FOUND IN AN EXISTING DBM PROJECT AND THEN TO GET THE REST RUN YOUR PRojECT IN CMD</h1>
+<h1> NODE MODULES MUST BE GRABED BY YOURSELF, THESE MAY BE FOUND IN AN EXISTING DBM PROJECT AND THEN TO GET THE REST RUN YOUR PROJECT IN CMD</h1>
