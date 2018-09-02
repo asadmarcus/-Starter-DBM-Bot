@@ -6,7 +6,7 @@
 <p> The DBM software can be found <a href="https://store.steampowered.com/app/682130/Discord_Bot_Maker/">here</a> // I do not own this software or take any credit for it</p>
 
 <h3>Considor the following</h3>
-<p>I did not make this software and in no way take credit for that. No way is this project ossciated with the developer Robert Borghese</p>
+<p>I did not make this software and in no way take credit for that. No way is this project associated with the developer Robert Borghese or an offcial DBM project.</p>
 
 <h4>Credits</h4>
 <p>Project made by <a href="https://develops.xenohub.xyz">Xeno Develops</a>;  Specificly by developer _iTrqPss#8258. The Xeno Develops discord server may be found <a href="https://discord.gg/x7GptKk">here</a>; Software made by Robert Borghese</p>
